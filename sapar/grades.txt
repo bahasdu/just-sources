@@ -1,0 +1,6 @@
+Ivanov Ivan - A
+Aliyev Ali - F
+Menshikov Sergey - D
+Minimus is: 22
+Maximum is: 100
+Average is: 62

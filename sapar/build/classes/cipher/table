@@ -1,0 +1,31 @@
+                   P L A I N T E X T  L E T T E R S
+
+           | a b c d e f g h i j k l m n o p q r s t u v w x y z
+ ----------+----------------------------------------------------
+    1  (A) | A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
+    2  (B) | B C D E F G H I J K L M N O P Q R S T U V W X Y Z A
+    3  (C) | C D E F G H I J K L M N O P Q R S T U V W X Y Z A B
+    4  (D) | D E F G H I J K L M N O P Q R S T U V W X Y Z A B C
+    5  (E) | E F G H I J K L M N O P Q R S T U V W X Y Z A B C D
+    6  (F) | F G H I J K L M N O P Q R S T U V W X Y Z A B C D E
+ C  7  (G) | G H I J K L M N O P Q R S T U V W X Y Z A B C D E F
+ I  8  (H) | H I J K L M N O P Q R S T U V W X Y Z A B C D E F G
+ P  9  (I) | I J K L M N O P Q R S T U V W X Y Z A B C D E F G H
+ H  10 (J) | J K L M N O P Q R S T U V W X Y Z A B C D E F G H I
+ E  11 (K) | K L M N O P Q R S T U V W X Y Z A B C D E F G H I J
+ R  12 (L) | L M N O P Q R S T U V W X Y Z A B C D E F G H I J K
+    13 (M) | M N O P Q R S T U V W X Y Z A B C D E F G H I J K L
+ A  14 (N) | N O P Q R S T U V W X Y Z A B C D E F G H I J K L M
+ L  15 (O) | O P Q R S T U V W X Y Z A B C D E F G H I J K L M N
+ P  16 (P) | P Q R S T U V W X Y Z A B C D E F G H I J K L M N O
+ H  17 (Q) | Q R S T U V W X Y Z A B C D E F G H I J K L M N O P
+ A  18 (R) | R S T U V W X Y Z A B C D E F G H I J K L M N O P Q
+ B  19 (S) | S T U V W X Y Z A B C D E F G H I J K L M N O P Q R
+ E  20 (T) | T U V W X Y Z A B C D E F G H I J K L M N O P Q R S
+ T  21 (U) | U V W X Y Z A B C D E F G H I J K L M N O P Q R S T
+ S  22 (V) | V W X Y Z A B C D E F G H I J K L M N O P Q R S T U
+    23 (W) | W X Y Z A B C D E F G H I J K L M N O P Q R S T U V
+    24 (X) | X Y Z A B C D E F G H I J K L M N O P Q R S T U V W
+    25 (Y) | Y Z A B C D E F G H I J K L M N O P Q R S T U V W X
+    26 (Z) | Z A B C D E F G H I J K L M N O P Q R S T U V W X Y
+    
